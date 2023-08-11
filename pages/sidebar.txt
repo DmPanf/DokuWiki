@@ -1,0 +1,19 @@
+[[ :start|{{fa>bank?16| Home}}]]
+[[ :my_lan:9-diagram:000|{{fa>floppy-o?16| LAN terms & conditions}}]]
+[[ :000:todo:0-mycal|{{fa>calendar?16| Calendar-2020}}]]
+[[ :000:links:0-links|{{fa>anchor?14| Links}}]]
+[[ :wiki:config:000|{{fa>map-pin?14| Dirs (Folders) standart}}]]
+[[ :wiki:config:0-dokuwiki|{{fa>wikipedia-w?14| Wiki manual}}]]
+[[ :wiki:help:0-help|{{fa>h-square?16| Help}}]]
+[[ :sidebar|{{fa>list?16| SideBar}}]]
+ 
+<hiddenSwitch ⚡️.. Hidden Switch ..⚡️>
+ 
+{{indexmenu>..:#1 | js#kde.png navbar context}}
+ 
+{{fa>header}}
+{{fa>balance-scale}}
+{{fa>database}}
+{{fa>floppy-o}}
+ 
+~~NOTOC~~
